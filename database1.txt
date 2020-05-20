@@ -1,0 +1,20 @@
+T01 Mobile,Mobile_Cover,Mobile_Charger
+T02 Mobile,Earphones,Screen protector
+T03 PC,PC_bag,Mouse,PC_desk
+T04 HDD,Mobile_Charger,Earphones
+T05 Mobile,Mobile_Cover,Screen protector
+T06 PC,HDD
+T07 PC_desk,Mouse,Mobile_Charger
+T08 Mobile,Mobile_Cover
+T09 PC,PC_bag
+T10 Mobile_Cover,Screen protector
+T11 Mobile,Earphones,Screen protector
+T12 PC,Mouse
+T13 PC,Mobile,Mobile_Charger
+T14 Mobile,PC
+T15 HDD,Earphones
+T16 PC,Screen protector
+T17 Mobile,PC,PC_bag
+T18 Mobile,Earphones
+T19 Mobile,HDD
+T20 PC_bag,Mouse
